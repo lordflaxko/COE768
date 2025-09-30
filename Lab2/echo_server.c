@@ -61,6 +61,7 @@ int main(int argc, char **argv)
 	    fprintf(stderr, "Can't accept client \n");
 	    exit(1);
 	  }
+
 	  switch (fork()){
 	  case 0:		/* child */
 		(void) close(sd);
