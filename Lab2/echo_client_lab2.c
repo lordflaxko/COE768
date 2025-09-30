@@ -66,7 +66,6 @@ int main(int argc, char **argv)
         bytes_to_read -=i;
     }
 
-    // Print the received data
     printf("Receive: %s \n", rbuf);
 	
 
