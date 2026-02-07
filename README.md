@@ -1,1 +1,1 @@
-Labs and Final Project of COE768 - Computer Networks (F2025)
+Labs and Final Project for COE768 - Computer Networks (F2025)
